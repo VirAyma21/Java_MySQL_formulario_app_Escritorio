@@ -1,0 +1,4 @@
+datos base de datos:
+nombre: peluqueria
+usuario: pelu
+contraseña: pelu123
